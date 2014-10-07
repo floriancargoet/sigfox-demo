@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "demo-sigfox",
+  "version": "0.1.0",
+  "description": "Demo sigfox",
+  "main": "server/server.js",
+  "author": "Florian Cargoët @ Joshfire",
+  "dependencies": {
+    "express": "~4.7.2",
+    "body-parser": "~1.5.2"
+  },
+  "engines": {
+    "node": "0.10.22"
+  }
+}
