@@ -53,5 +53,5 @@ It will basically forward the message content to an [heroku-hosted](https://gith
 
 ###Web page
 
-[The web page]() will poll the server to get the latest received value.  
+[The web page](https://github.com/floriancargoet/sigfox-demo/blob/master/server/public/index.html) will poll the server to get the latest received value.  
 This value will be used as the background colour of the page
